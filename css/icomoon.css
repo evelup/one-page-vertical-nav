@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?8ky6ea');
+  src:  url('/fonts/icomoon.eot?8ky6ea');
   src:  url('/fonts/icomoon.eot?8ky6ea#iefix') format('embedded-opentype'),
     url('/fonts/icomoon.ttf?8ky6ea') format('truetype'),
     url('/fonts/icomoon.woff?8ky6ea') format('woff'),
@@ -25,18 +25,18 @@
 }
 
 .icon-flower-with-two-leaves:before {
-  content: "\e911";
+  content: "e911";
 }
 .icon-christmas-snowflake-ornament:before {
-  content: "\e90c";
+  content: "e90c";
 }
 .icon-mapple-leaf:before {
   content: "\e90d";
 }
 .icon-sun-(1):before {
-  content: "\e90e";
+  content: "e90e";
 }
 .icon-snowflake-(2):before {
-  content: "\e908";
+  content: "e908";
 }
 
